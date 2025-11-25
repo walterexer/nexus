@@ -12,8 +12,8 @@ const bot = new Telegraf(BOT_TOKEN);
 // start handler
 export async function handleStartCommand(ctx) {
   const COMMAND = "/start";
-  const channelUrl = "t.me/gateProxy0";
-  const targetUrl = "t.me/+-FCtMVpbkLdmMTBk";
+  const channelUrl = "t.me/fast_mobile_proxies";
+  const targetUrl = "t.me/+Wi1OuNu_tPRmOGQ0";
 
   // Welcome message with Markdown formatting
   const reply = `
