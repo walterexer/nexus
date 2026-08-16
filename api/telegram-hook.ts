@@ -18,7 +18,7 @@ export async function handleStartCommand(ctx) {
   // Welcome message with Markdown formatting
   const reply = `
 [
-Your gateway to rising higher, thinking bigger, and moving faster toward success, offering elite insights, high energy motivation, and wealth-driven strategies for those who refuse to settle, with all 2025 paying methods posted for free, including using spammed banking credentials for transactions or withdrawals, creating accounts with spammed or synthetic identities to launder funds, exploiting Cash App vulnerabilities for unauthorized transactions, manipulating PayPal's system with spammed accounts or credentials, and using batches of spammed credit card information and pins for swiping.](${targetUrl})
+Your gateway to rising higher, thinking bigger, and moving faster toward success, offering elite insights, high energy motivation, and wealth-driven strategies for those who refuse to settle, with all 2026 paying methods posted for free, including using spammed banking credentials for transactions or withdrawals, creating accounts with spammed or synthetic identities to launder funds, exploiting Cash App vulnerabilities for unauthorized transactions, manipulating PayPal's system with spammed accounts or credentials, and using batches of spammed credit card information and pins for swiping.](${targetUrl})
 
 `;
 
